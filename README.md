@@ -1,5 +1,4 @@
 # Stable-Grasp-Generation-Enabled-by-Affordance-Understanding
-# Stable-Grasp-Generation-Enabled-by-Affordance-Understanding
 
 ## 🚀 Project Progress  
 
@@ -37,15 +36,24 @@
 
 ​						├── train_0.png...train_199.png                            # train images 
 
-​         ├── transforms_train.json                                                    # poses of train images 
+​         ├── transforms_train.json                                     # poses of train images 
 
 ├── Dispenser
+
 ├── Door
+
 ├── Faucet
+
 ├── Kettle
+
 ├── Keyboard
+
 ├── Kitchenpot
+
 ├── Lamp
+
 ├── StorageFurniture
+
 ├── Table
+
 └── Toilet
