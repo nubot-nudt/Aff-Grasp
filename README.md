@@ -12,7 +12,7 @@
 
 ## 📋 Pending Tasks  
 
-- [ ] Create core code documentation  
+- [ ] Create                  core code documentation  
 
 - [ ] Add usage examples and demos  
 
