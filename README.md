@@ -24,19 +24,19 @@
 
 ├── Chair
 
-&nbsp;├── object_0
+&nbsp;&nbsp;├── object_0
 
-  ├── sem
+&nbsp;&nbsp&nbsp;&nbsp├── sem
 
-​\\\├── train
+​&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp├── train
 
-\\\\​├── train_0.png...train_199.png\\# train images with annotation
+&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp​├── train_0.png...train_199.png\\# train images with annotation
 
-​\\├── train
+​&nbsp;&nbsp&nbsp;&nbsp├── train
 
-\\\├── train_0.png...train_199.png\\\# train images 
+&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp├── train_0.png...train_199.png&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp# train images 
 
-\\├── transforms_train.json\\\\# poses of train images 
+&nbsp;&nbsp&nbsp;&nbsp├── transforms_train.json&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp# poses of train images 
 
 ├── Dispenser
 
