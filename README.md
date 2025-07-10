@@ -28,7 +28,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;├── sem
 
-​&nbsp;&nbsp;&nbsp;&nbs;p&nbsp;&nbsp;├── train
+​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── train
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;​├── train_0.png...train_199.png&nbsp;&nbsp;&nbsp;&nbsp;# train images with annotation
 
