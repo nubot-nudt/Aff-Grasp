@@ -24,7 +24,7 @@
 
 ├── Chair
 
- ├── object_0
+$~~~~$├── object_0
 
 ​\\├── sem
 
