@@ -4,6 +4,7 @@
 
 - [x] Open-source the dataset  
   Dataset published at [this link](https://drive.google.com/file/d/1FEhQ0zIeFJEHcWFkZEcfL5WFIMX9jI6T/view?usp=drive_link)  with raw data.
+  The code for building the dataset in Vrep or Sapien has provided.
 
 - [ ] **Open-source code**  
   ETA: Soon
