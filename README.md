@@ -6,6 +6,8 @@
   Dataset is published at [this link](https://drive.google.com/file/d/1FEhQ0zIeFJEHcWFkZEcfL5WFIMX9jI6T/view?usp=drive_link)  with raw data.
   The code for building the dataset in Vrep or Sapien has provided.
 
+  The annotation results of objects in GraspNet-1Billion can be downloaded at [this link](https://www.modelscope.cn/datasets/artguang/Semantic_annotation_of_models_in_GraspNet-1Billion/resolve/master/graspnet_annotation.zip).
+
 - [ ] **Open-source code**  
   ETA: Soon
 
